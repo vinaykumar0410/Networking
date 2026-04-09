@@ -1,0 +1,92 @@
+📘 Your CompTIA A+ – Interview Q&A Revision Sheet
+
+Here are all questions + perfect answers we covered so far 👇
+
+1. What is RAM?
+
+👉 “RAM (Random Access Memory) is temporary memory that stores data of currently running programs so the CPU can access it quickly. It helps in improving system speed and multitasking.”
+
+2. Which is faster: HDD or SSD?
+
+👉 “SSD is faster than HDD because it uses flash memory with no moving parts, while HDD uses spinning disks, which makes it slower.”
+
+3. What is CPU?
+
+👉 “CPU (Central Processing Unit) is the brain of the computer that processes instructions and performs calculations and logical operations.”
+
+4. What is a core in CPU?
+
+👉 “A core is a processing unit inside the CPU. More cores allow the system to handle multiple tasks simultaneously.”
+
+5. Can DDR4 fit in DDR3 slot?
+
+👉 “No, DDR4 cannot fit into a DDR3 slot because they have different physical designs and are not compatible.”
+
+6. User says system is slow — what will you check?
+
+👉
+“I will check RAM usage, CPU usage, disk performance, and background applications. If the system is using HDD, I may suggest upgrading to SSD for better performance.”
+
+7. System is not turning ON — what will you check?
+
+👉
+“I will check the power cable, power supply (SMPS), and ensure all internal connections are properly connected. If needed, I will test with another power cable or SMPS.”
+
+8. What is SMPS?
+
+👉
+“SMPS is a power supply unit that converts AC to DC and distributes power to all computer components.”
+
+9. System is ON but no display — what will you check?
+
+👉
+“I will check the display cable and monitor, then reseat or check the RAM, and verify the display port or GPU.”
+
+10. What is motherboard?
+
+👉
+“Motherboard is the main circuit board of a computer that connects and allows communication between all components like CPU, RAM, and storage.”
+
+11. Name any 3 components connected to motherboard
+
+👉 CPU, RAM, Storage (HDD/SSD)
+
+12. What is HDMI?
+
+👉
+“HDMI is used to transmit both audio and video from computer to display.”
+
+13. What is VGA?
+
+👉
+“VGA is an older video port that supports only video signals.”
+
+14. What is USB?
+
+👉
+“USB (Universal Serial Bus) is used to connect peripheral devices like keyboard, mouse, and storage devices.”
+
+15. What is LAN port?
+
+👉
+“LAN port is used to connect a system to a network using an Ethernet cable.”
+
+16. USB not working — what will you do?
+
+👉
+“I will check the USB port, test the device on another system, try a different port, restart the system, and check USB drivers.”
+
+17. What is peripheral device?
+
+👉
+“Peripheral devices are external hardware connected to a computer, such as keyboard, mouse, and printer.”
+
+18. USB full form?
+
+👉 “Universal Serial Bus”
+
+19. Difference between input and output device?
+
+👉
+“Input devices are used to give instructions to the computer, such as keyboard and mouse. Output devices are used to display results, such as monitor and printer.”
+
