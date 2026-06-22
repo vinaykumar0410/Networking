@@ -1,0 +1,100 @@
+📘 Day 2 – CompTIA A+ Revision Sheet
+1. What is BIOS?
+
+👉
+“BIOS (Basic Input/Output System) is firmware stored on the motherboard that initializes hardware and starts the boot process when the computer is powered on.”
+
+2. What is POST?
+
+👉
+“POST (Power-On Self-Test) is a process performed by BIOS to check if hardware components like RAM, CPU, and keyboard are working properly.”
+
+3. What is Operating System?
+
+👉
+“Operating System is system software that manages hardware resources and provides an interface between user and computer, like Windows, Linux.”
+
+4. What is Booting?
+
+👉
+“Booting is the process of starting a computer and loading the operating system into memory.”
+
+5. Types of Booting?
+
+👉
+“Cold boot is starting the computer from OFF state, and warm boot is restarting the system.”
+
+6. What is SSD vs NVMe?
+
+👉
+“Both are SSDs, but NVMe is faster because it uses PCIe interface, while SATA SSD uses slower SATA interface.”
+
+7. What is Cache Memory?
+
+👉
+“Cache memory is small, high-speed memory inside CPU that stores frequently used data to improve performance.”
+
+8. What is GPU?
+
+👉
+“GPU (Graphics Processing Unit) is responsible for rendering images, videos, and graphics.”
+
+9. Difference between Integrated and Dedicated GPU?
+
+👉
+“Integrated GPU is built into CPU and shares system memory, while dedicated GPU has its own memory and provides better performance.”
+
+10. What is IP Address?
+
+👉
+“IP address is a unique identifier assigned to a device on a network.”
+
+11. What is DHCP?
+
+👉
+“DHCP automatically assigns IP addresses to devices in a network.”
+
+12. What is DNS?
+
+👉
+“DNS converts domain names into IP addresses so computers can locate websites.”
+
+13. What is Firewall?
+
+👉
+“Firewall is a security system that monitors and controls incoming and outgoing network traffic.”
+
+14. What is Antivirus?
+
+👉
+“Antivirus is software that detects and removes malicious programs from a computer.”
+
+15. Internet not working — what will you check?
+
+👉
+“I will check network cable or Wi-Fi connection, IP address, restart router, and verify network settings.”
+
+16. What is Blue Screen Error?
+
+👉
+“Blue Screen Error occurs when the system crashes due to hardware or driver issues.”
+
+17. What is Driver?
+
+👉
+“Driver is software that allows the operating system to communicate with hardware devices.”
+
+18. Printer not working — what will you do?
+
+👉
+“I will check power, cable connection, printer status, drivers, and restart the printer and system.”
+
+19. What is Virtual Memory?
+
+👉
+“Virtual memory is a portion of hard disk used as RAM when actual RAM is full.”
+
+20. What is Formatting?
+
+👉
+“Formatting prepares a storage device for use by creating a file system.”
